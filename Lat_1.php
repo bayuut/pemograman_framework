@@ -26,4 +26,6 @@ $jeep->nama="JEEP";
 $jeep->merk="bbbb";
 
 $jeep->getInfo($a);
+
+// KESIMPULAN : Jika nama method sama dalam kasus getInfo maka akan terjadi eror.
 ?>
